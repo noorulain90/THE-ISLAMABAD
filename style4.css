@@ -1,0 +1,64 @@
+.navbar{
+	background-color:#142ec4 !important;
+	width:100%;
+	position:relative;
+	padding:10px;
+
+}
+
+.nav-link{
+	
+	color:white !important;
+	font-weight:bold;
+	margin-right:10px;
+}
+.dropdown-menu{
+	color:white;
+	background-color:#73144d;
+}
+.dropdown-item a:hover{
+	color:#070b7a !important ;	
+}
+
+.resturent h1{
+    font-size:35px;
+font-family: Arial black;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+.fa-truck,.fa-hourglass,.fa-thumbs-up{
+	font-size:20px !important;
+	margin-right:10px;
+}
+.card1,.card2,.card3,.card4,.card5,.card6{
+	display:flex;
+	width:25%;
+	height:500px;
+    background-color:#070b7a !important;
+    color: white;
+	box-shadow:2px 4px 5px black;
+	justify-content:center;
+	align-items:center;
+	padding-left: 10px;
+}
+.card6{
+	margin-right:75px ;
+}
+.maincard{
+	margin-top:30px;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-around;
+	margin-bottom:30px;
+	
+}
+
+.footer {
+    margin-top:100px ;
+   background-color:#142ec4 ;
+   color:white;
+   padding: 10px;
+   text-align: center;
+ }
+ 

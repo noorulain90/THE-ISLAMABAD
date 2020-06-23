@@ -1,0 +1,77 @@
+.navbar{
+	background-color:#142ec4 !important;
+	width:100%;
+	position:relative;
+	padding:10px;
+
+}
+
+.nav-link{
+	
+	color:white !important;
+	font-weight:bold;
+	margin-right:10px;
+}
+.dropdown-menu{
+	color:white;
+	background-color:#73144d;
+}
+.dropdown-item a:hover{
+	color:#070b7a !important ;	
+}
+.left{
+    width: 40%;
+    height: 700px;
+    text-align: justify;
+    float: right;
+    margin-top: 23px;
+    padding:5px;
+    background-color: #142ec4;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+   
+  }
+  .left p{
+    font-family:Berlin Sans FB ;
+    color: white;
+  }
+  .left h2{
+    font-size:35px;
+    text-align: center;
+    font-family:Times New Roman;
+    color: white;
+    font-weight: bold;
+  }
+  .right{
+    width: 40%;
+    height: 700px;
+    text-align: justify;
+    float:right;
+    padding:5px;
+    border: 50px bold;
+    background-color:#8390c9;
+    
+  }
+  .right p{
+    font-family:Berlin Sans FB;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    
+  }
+  .right h2{
+    font-size:35px;
+    font-family:Times New Roman;
+    font-weight: bold;
+    text-align: center;
+    
+  }
+.footer {
+     
+    background-color:#142ec4 ;
+    color:white;
+    padding: 10px;
+    text-align: center;
+  }
+  

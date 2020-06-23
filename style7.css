@@ -1,0 +1,55 @@
+.navbar{
+	background-color:#142ec4 !important;
+	width:100%;
+	position:relative;
+	padding:10px;
+
+}
+
+.nav-link{
+	
+	color:white !important;
+	font-weight:bold;
+	margin-right:10px;
+}
+.dropdown-menu{
+	color:white;
+	background-color:#73144d;
+}
+.dropdown-item a:hover{
+	color:#070b7a !important ;	
+}
+
+.mid{
+    width: 100%;
+    height: 800px;
+    text-align: justify;
+    float: right;
+    margin-top: 23px;
+    padding:5px;
+    background-color: white;
+    
+  }
+  .mid p{
+    font-family:Berlin Sans FB ;
+    color: black;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+  }
+  .mid h2{
+    font-size:35px;
+    text-align: center;
+    font-family:Times New Roman;
+    color:#142ec4;
+    font-weight: bold;
+  }
+  
+.footer {
+     
+    background-color:#142ec4 ;
+    color:white;
+    padding: 10px;
+    text-align: center;
+  }
+  
